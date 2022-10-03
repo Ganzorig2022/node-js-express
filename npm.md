@@ -9,6 +9,8 @@
 7. npm i morgan
 8. npm i nodemon --save-dev (locally)
 9. npm i nodemon --global (globally)
+10. npm i mongoose
+11. npm i dotenv
 
 =====================================================================
 REST Architecture
